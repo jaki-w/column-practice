@@ -1,0 +1,18 @@
+.column1 {
+  width: 25%;
+  float: left;
+  color: teal;
+}
+
+.column2 {
+  width: 25%;
+  float: left;
+  color: rgb(124, 0, 128);
+  margin: 20px;
+}
+
+.column3 {
+  width: 25%;
+  float: left;
+  color: orange;
+}
